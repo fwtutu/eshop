@@ -22,5 +22,6 @@
 - **開發環境**：
   - XAMPP：整合 Apache、MySQL 和 PHP 的本地開發環境。
 
+![螢幕擷取畫面 (23)](https://github.com/user-attachments/assets/e4919172-4a3d-4bdb-9b4f-06e985ece423)
 
 
