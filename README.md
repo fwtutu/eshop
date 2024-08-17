@@ -24,4 +24,7 @@
 
 ![螢幕擷取畫面 (23)](https://github.com/user-attachments/assets/e4919172-4a3d-4bdb-9b4f-06e985ece423)
 
+![螢幕擷取畫面 (21)](https://github.com/user-attachments/assets/f1d27c43-f058-401e-aff7-cdecac4ac3ff)
+
+![螢幕擷取畫面 (25)](https://github.com/user-attachments/assets/7a1757dd-42da-418d-ac5d-9753f136ae7e)
 
